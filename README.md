@@ -1,6 +1,6 @@
 <h1>Azure Sentinel Map with Live Cyber Attacks</h1>
 
- ###
+
 
 <h2>Description</h2>
 SIEM systems have become an essential component of modern cybersecurity strategies, as they help organizations to comply with regulatory requirements, enhance their risk management capabilities, and protect their valuable assets. With the increasing sophistication of cyber threats and the growing complexity of IT infrastructures, SIEM solutions have become more important than ever.
@@ -12,14 +12,16 @@ SIEM systems have become an essential component of modern cybersecurity strategi
 - <b>Azure Virtual Machine</b>
 - <b>Log Analytics Workspace</b>
 - <b>PowerShell</b>
+- <b>Kusto Query Language</b>
+- <b>Network Security Groups</b>
 
-###
+
 
 <h2>Operation System </h2>
 
 - <b>Windows 10</b>
 
-###
+
 <h2>Project walk-through:</h2>
 
 <p align="center">
