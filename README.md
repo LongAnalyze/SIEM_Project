@@ -15,7 +15,7 @@ SIEM systems have become an essential component of modern cybersecurity strategi
 
 ###
 
-<h2>Environments Used </h2>
+<h2>Operation System </h2>
 
 - <b>Windows 10</b>
 
